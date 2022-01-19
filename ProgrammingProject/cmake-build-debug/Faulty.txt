@@ -1,0 +1,12 @@
+Temperature sensor report:
+Temperature sensors in Bedroom are working correctly
+Temperature sensors in Kitchen are working correctly
+Temperature sensors in LivingRoom are working correctly
+Humidity sensor report:
+Humidity sensors in Bedroom are working correctly
+Humidity sensors in Kitchen are working correctly
+Humidity sensors in Living Room are working correctly
+Light sensor report:
+Light sensors in Bedroom are working correctly
+Light sensors in Kitchen are working correctly
+Light sensors in Living Room are working correctly
